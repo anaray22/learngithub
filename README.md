@@ -7,3 +7,6 @@
 
 **This is in bold**
 __This is in bold__
+
+*This is Italics*
+_This is Italics_
