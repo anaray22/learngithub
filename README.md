@@ -31,3 +31,6 @@ ___
 
 [linkedin]
 linkedin: https://www.linkedin.com/
+
+[linkedin][1]
+1: https://www.linkedin.com/
