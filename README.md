@@ -18,3 +18,13 @@ _This is Italics_
 ---
 ***
 ___
+
+* List Item 1
+* List Item 2
+
+- List Item 1
+- List Item 2
+
+1. Ordered list item 1
+     Identing Ordered list item 1
+1. Ordered list item 2
