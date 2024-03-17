@@ -12,3 +12,5 @@ __This is in bold__
 _This is Italics_
 
 ~Strikethrough~
+
+> This is a quotation text.
