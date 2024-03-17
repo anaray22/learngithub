@@ -10,3 +10,5 @@ __This is in bold__
 
 *This is Italics*
 _This is Italics_
+
+~Strikethrough~
