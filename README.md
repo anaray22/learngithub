@@ -33,3 +33,9 @@ ___
 [linkedin](https://www.linkedin.com/)
 
 [![linkedin](https://picsum.photos/536/354)](https://picsum.photos/images)
+
+```py
+i = 50
+print(i)
+
+```
