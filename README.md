@@ -14,3 +14,7 @@ _This is Italics_
 ~Strikethrough~
 
 > This is a quotation text.
+
+---
+***
+___
